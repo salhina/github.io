@@ -64,7 +64,6 @@ content:
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             Experienced Electronics Engineer with a demonstrated history of working in the automotive and defence industry. Skilled in Vehicles Systems Architecture, Embedded Systems, Electronics, Power Electronics, Electricity and Team Building. 
-            Strong professional with a Master degree in Electronics Systems & Telecommunications focused on Hardware/Software Electronics, Telecommunication and Embedded Systems from Fez University, Faculty of Sciences and Technologies.
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
