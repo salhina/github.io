@@ -55,14 +55,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
+        title: University of Fez, Morocco.
+        caption: 2009 - 2014
+        sub_title: Master's Degree
         quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+          At the heart of the spiritual capital of Morocco, University of Fez is among the top high educational establishment in the Kingdom.
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
+          During my time at University of Fez I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
+          I spent a lot of my free time as a committee member of the *Robotics Club* taking on roles such as *Vice-President*.
   - title: A Little More About Me !
     layout: text
     content: | # this will include new lines to allow paragraphs
