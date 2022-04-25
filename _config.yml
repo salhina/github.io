@@ -35,7 +35,7 @@ additional_links:
   icon: fas fa-globe
   url: http://nabilsalhicv.me.ht
 - title: My CV
-  icon: fa-solid fa-address-card
+  icon: far fa-address-card
   url: nabilsalhicv.me.ht/cv/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
