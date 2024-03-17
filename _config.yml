@@ -52,7 +52,7 @@ additional_links:
 about_profile_image: images/IMG-20170221-WA0027-300x203.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Nabil and I'm a Electronics & Telecommunication Engineer. As well as Electronics Instructor I also have experience making software and Hardware. I have worked at a number of companies gaining teamwork and leadership skills.
-  I am most skilled in: <mark>Domotics</mark> and <mark>Embedded Electronics</mark>
+  I am most skilled in: <mark>Automotive</mark> , <mark>Aerospace</mark> and <mark>Embedded Electronics</mark>
 content:
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
