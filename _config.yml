@@ -84,8 +84,8 @@ content:
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and electonics systems engineering some of my other interests and hobbies are:
       - Gaming
-      - [DIY Videos](https://www.youtube.com/@nabil_salhi)
-      - [Blog writing](http://nabilsalhicv.me.ht/)
+      - <mark>[DIY Videos](https://www.youtube.com/@nabil_salhi)</mark>
+      - <mark>[Blog writing](http://nabilsalhicv.me.ht/)</mark>
  #     Look at this cool image  
  #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 # Footer
