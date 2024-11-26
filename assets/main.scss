@@ -1,11 +1,14 @@
----
-# Front matter comment to ensure Jekyll properly reads the file
----
+/* assets/main.scss */
 
-@import 'modern-resume-theme';
+/* Targeting the About Me section */
+.about, 
+.about_content, 
+.content p {
+  text-align: left; /* Align text to the left */
+  margin-left: 0;
+  margin-right: 0;
+}
 
-/* Custom styles */
-  
 /* Mobile specific styles */
 @media (max-width: 767px) {
   .content p,
