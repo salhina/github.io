@@ -2,7 +2,10 @@ source "https://rubygems.org"
 
 gem "github-pages", group: :jekyll_plugins
 
-# Windows does not include zoneinfo files, so bundle the tzinfo-data gem
+# Add the missing theme
+gem "modern-resume-theme", "~> 2.0" # Specify the correct version if necessary
+
+# For Windows systems
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Performance-booster for watching directories on Windows
