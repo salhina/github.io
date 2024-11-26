@@ -1,15 +1,28 @@
+# _config.yml
+
+title: Nabil Salhi - Resume
+email: salhinabilpro@gmail.com
+description: Personal resume and portfolio of Nabil Salhi
+url: "https://salhina.github.io"
+
+# Theme configuration
+remote_theme: sproogen/resume-theme
+plugins:
+  - jekyll-remote-theme # Needed for GitHub Pages to fetch the theme
+  - jekyll-seo-tag
+
+# Additional Configurations
+markdown: kramdown
+
+
+
+
 # Site
-repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
-# Personal info
-name: SALHI, Nabil
-title: Embedded Systems Engineer | Electronics Instructor
-email: salhinabilpro@gmail.com
-website: http://nabilsalhicv.me.ht/
 
 # Dark Mode (true/false/never)
 darkmode: false
