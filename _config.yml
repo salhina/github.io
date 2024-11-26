@@ -80,7 +80,7 @@ content:
     content:
       - layout: left
         title: FPGA-Based Signal Processing Module
-        sub_title: Technologies: VHDL, MATLAB, Xilinx Vivado
+        sub_title: Technologies VHDL, MATLAB, Xilinx Vivado
         description: |
           - Developed a high-speed digital signal processing module on an FPGA for real-time applications.
           - Designed and simulated signal processing algorithms in MATLAB before hardware implementation.
@@ -88,7 +88,7 @@ content:
           
       - layout: left
         title: Power Electronics Control System
-        sub_title: Technologies: MATLAB/Simulink, Embedded C
+        sub_title: Technologies MATLAB/Simulink, Embedded C
         description: |
           - Engineered a control system for power electronics in renewable energy applications.
           - Focused on optimizing switching techniques for inverters and converters to improve efficiency.
@@ -96,7 +96,7 @@ content:
           
       - layout: left
         title: Automotive Diagnostic Tool Development
-        sub_title: Technologies: CAN Bus, Python, Embedded C
+        sub_title: Technologies CAN Bus, Python, Embedded C
         description: |
           - Designed and deployed a diagnostic tool for real-time fault detection in automotive systems.
           - Integrated communication protocols such as CAN and LIN for robust vehicle diagnostics.
@@ -104,7 +104,7 @@ content:
           
       - layout: left
         title: Embedded Architecture Systems Engineering
-        sub_title: Technologies: ARM Cortex-M, RTOS, Hardware Design
+        sub_title: Technologies ARM Cortex-M, RTOS, Hardware Design
         description: |
           - Architected embedded systems for IoT and automotive applications, focusing on modular design and scalability.
           - Implemented real-time scheduling for multi-tasking applications using an RTOS.
