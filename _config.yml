@@ -7,7 +7,7 @@ version: 2
 
 # Personal info
 name: SALHI, Nabil
-title: Embedded Systems Engineer
+title: Embedded Systems Engineer | Electronics Instructor
 email: salhinabilpro@gmail.com
 website: http://nabilsalhicv.me.ht/
 
@@ -15,91 +15,98 @@ website: http://nabilsalhicv.me.ht/
 darkmode: false
 
 # Social links
-#twitter_username: iNabilComp
-github_username:  salhina
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-#facebook_username: iNabilComp
-# flickr_username: jekyll
-#instagram_username: inabilco
+github_username: salhina
 linkedin_username: nabil-salhi
-# xing_username: jekyll
-#pinterest_username: iNabilComp
 youtube_username: "@salhi_nabil"
-# googleplus_username: +jekyll
-# orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
 additional_links:
-- title: nabilsalhicv.me.ht
-  icon: fas fa-globe
-  url: http://nabilsalhicv.me.ht
-- title: My CV
-  icon: far fa-address-card
-  url: http://nabilsalhicv.me.ht/cv/
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+  - title: Portfolio
+    icon: fas fa-globe
+    url: http://nabilsalhicv.me.ht
+  - title: My CV
+    icon: far fa-address-card
+    url: http://nabilsalhicv.me.ht/cv/
 
 # About Section
-# about_title: About Me
 about_profile_image: images/IMG-20170221-WA0027-300x203.jpg
-about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Nabil and I'm a Electronics & Telecommunication Engineer. As well as an Electronics Instructor I also have experience making software and Hardware. I have worked at a number of companies gaining teamwork and leadership skills.
-  I am most skilled in: <mark>Automotive</mark> , <mark>Aerospace</mark> and <mark>Embedded Electronics</mark>
+about_content: | 
+  Hi, I’m Nabil Salhi, an Electronics and Telecommunications Engineer with a passion for Embedded Systems, Automotive, and Aerospace technologies. I specialize in **real-time application development**, **hardware/software integration**, and **teaching engineering principles**.
+
+  With experience in the automotive and defense industries, I bring expertise in **vehicles systems architecture**, **power electronics**, and **team leadership**. As an instructor, I help students and engineers unlock their potential through engaging and practical learning approaches.
+
+# Content Sections
 content:
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Key Skills
+    layout: text
+    content: |
+      - Embedded Systems Development (ESP32, Arduino, Raspberry Pi)
+      - Programming: C/C++, Python, MATLAB
+      - Hardware Interfaces: SPI, I2C, UART, CAN
+      - Signal Processing & Real-Time Systems
+      - Telecommunications & Electronics
+      - IoT & Wireless Communication Protocols
+      - Software Tools: PyQt5, RTOS, Altium Designer
+
+  - title: Professional Experience
+    layout: list
     content:
       - layout: left
-        title: Confidencial Company
-        # link: Confidencialcomp.com
-        # link_text: boringcompany.com
+        title: Confidential Company
         sub_title: Electrical/Electronics Engineer
         caption: November 2015 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-        description: | # this will include new lines to allow paragraphs
-            Experienced Electronics Engineer with a demonstrated history of working in the automotive and defence industry. Skilled in Vehicles Systems Architecture, Embedded Systems, Electronics, Power Electronics, Electricity and Team Building. 
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+        description: |
+          - Lead the design and development of embedded systems for automotive applications.
+          - Created robust electronics systems to enhance **vehicle performance** and **safety**.
+          - Developed real-time solutions for aerospace and defense industries, focusing on **mission-critical systems**.
+          - Actively collaborated with cross-disciplinary teams to deliver innovative solutions.
+          - Mentored junior engineers, fostering a culture of continuous learning.
+
+  - title: Notable Projects
+    layout: list
     content:
       - layout: left
-        title: University of Fez, Morocco.
+        title: Serial Frequency Generator
+        sub_title: PyQt5 & ESP32
+        description: |
+          - Designed a **GUI-based application** to generate signals in real time.
+          - Implemented signal monitoring via an **ESP32 onboard LED**, offering visual feedback on frequency changes.
+          - Used **PyQt5** to provide an intuitive user experience and ensured efficient hardware-software communication.
+
+      - layout: left
+        title: Arduino Oscilloscope
+        sub_title: Python & Arduino Uno
+        description: |
+          - Developed a **real-time oscilloscope** to plot signals for analog electronics.
+          - Focused on **signal processing** and **data visualization** using Python.
+          - This project showcases how embedded systems tools can aid engineers in analyzing complex signals.
+
+      - layout: left
+        title: Spectrum Analyzer (In Progress)
+        sub_title: Python & ESP32
+        description: |
+          - Aiming to replace the oscilloscope application with a **spectrum analyzer**.
+          - The project will enable frequency domain analysis, expanding its utility for RF engineers and hobbyists.
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: University of Fez, Morocco
+        sub_title: Master’s Degree in Electronics & Telecommunications
         caption: 2009 - 2014
-        sub_title: Master's Degree
-        quote: >
-          At the heart of the spiritual capital of Morocco, University of Fez is among the top high educational establishment in the Kingdom.
-        description: | # this will include new lines to allow paragraphs
-          During my time at University of Fez I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-          I spent a lot of my free time as a committee member of the *Robotics Club* taking on roles such as *Vice-President*.
-  - title: A Little More About Me !
+        description: |
+          - Gained expertise in **analog/digital systems**, **telecommunications**, and **electromagnetic theory**.
+          - Served as Vice-President of the **Robotics Club**, organizing workshops and competitions.
+          - Honed teamwork and leadership skills through collaborative academic projects.
+
+  - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and electonics systems engineering some of my other interests and hobbies are:
-      - Gaming
-      - [<mark>DIY Videos</mark>](https://www.youtube.com/@salhi_nabil)
-      - [<mark>Blog writing</mark>](http://nabilsalhicv.me.ht/)
- #     Look at this cool image  
- #     ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
+    content: |
+      Beyond engineering, I am passionate about:
+      - [**DIY Engineering Videos**](https://www.youtube.com/@salhi_nabil)
+      - [**Technical Blog Writing**](http://nabilsalhicv.me.ht/)
+      - Gaming and exploring new technologies
+
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
-
-# Build settings
-remote_theme: sproogen/resume-theme
-
-sass:
-  sass_dir: _sass
-  style: compressed
-
-plugins:
- - jekyll-seo-tag
-
-theme: jekyll-theme-slate
