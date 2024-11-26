@@ -3,3 +3,25 @@
 ---
 
 @import 'modern-resume-theme';
+
+/* assets/main.scss */
+
+/* Mobile specific styles */
+@media (max-width: 767px) {
+  .content p,
+  .content ul {
+    text-align: left; /* Align text to the left */
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  /* Adjust line spacing for list items */
+  .content ul li {
+    line-height: 1.5; /* Adjust line height */
+  }
+
+  /* Optional: Adjust spacing between paragraphs */
+  .content p {
+    margin-bottom: 1rem; /* Adjust space between paragraphs */
+  }
+}
