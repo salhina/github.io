@@ -75,31 +75,37 @@ content:
           - Actively collaborated with cross-disciplinary teams to deliver innovative solutions.
           - Mentored junior engineers, fostering a culture of continuous learning.
 
-  - title: Notable Projects
-    layout: list
-    content:
-      - layout: left
-        title: Serial Frequency Generator
-        sub_title: PyQt5 & ESP32
-        description: |
-          - Designed a **GUI-based application** to generate signals in real time.
-          - Implemented signal monitoring via an **ESP32 onboard LED**, offering visual feedback on frequency changes.
-          - Used **PyQt5** to provide an intuitive user experience and ensured efficient hardware-software communication.
-
-      - layout: left
-        title: Arduino Oscilloscope
-        sub_title: Python & Arduino Uno
-        description: |
-          - Developed a **real-time oscilloscope** to plot signals for analog electronics.
-          - Focused on **signal processing** and **data visualization** using Python.
-          - This project showcases how embedded systems tools can aid engineers in analyzing complex signals.
-
-      - layout: left
-        title: Spectrum Analyzer (In Progress)
-        sub_title: Python & ESP32
-        description: |
-          - Aiming to replace the oscilloscope application with a **spectrum analyzer**.
-          - The project will enable frequency domain analysis, expanding its utility for RF engineers and hobbyists.
+- title: Notable Projects
+  layout: list
+  content:
+    - layout: left
+      title: FPGA-Based Signal Processing Module
+      sub_title: Technologies: VHDL, MATLAB, Xilinx Vivado
+      description: |
+        - Developed a high-speed digital signal processing module on an FPGA for real-time applications.
+        - Designed and simulated signal processing algorithms in MATLAB before hardware implementation.
+        - Delivered a robust and efficient design for industrial automation systems.
+    - layout: left
+      title: Power Electronics Control System
+      sub_title: Technologies: MATLAB/Simulink, Embedded C
+      description: |
+        - Engineered a control system for power electronics in renewable energy applications.
+        - Focused on optimizing switching techniques for inverters and converters to improve efficiency.
+        - Simulated and validated system performance using MATLAB and implemented on a microcontroller-based architecture.
+    - layout: left
+      title: Automotive Diagnostic Tool Development
+      sub_title: Technologies: CAN Bus, Python, Embedded C
+      description: |
+        - Designed and deployed a diagnostic tool for real-time fault detection in automotive systems.
+        - Integrated communication protocols such as CAN and LIN for robust vehicle diagnostics.
+        - Enhanced maintenance workflows by providing detailed data visualization and reporting.
+    - layout: left
+      title: Embedded Architecture Systems Engineering
+      sub_title: Technologies: ARM Cortex-M, RTOS, Hardware Design
+      description: |
+        - Architected embedded systems for IoT and automotive applications, focusing on modular design and scalability.
+        - Implemented real-time scheduling for multi-tasking applications using an RTOS.
+        - Delivered optimized firmware solutions for mission-critical components in automotive systems.
 
   - title: Education
     layout: list
