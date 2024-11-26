@@ -8,43 +8,120 @@ url: "https://salhina.github.io"
 # Theme configuration
 remote_theme: sproogen/resume-theme
 plugins:
-  - jekyll-remote-theme  # Needed for GitHub Pages
+  - jekyll-remote-theme # Needed for GitHub Pages to fetch the theme
   - jekyll-seo-tag
 
-# Metadata
+# Additional Configurations
 markdown: kramdown
-favicon: /assets/images/favicon.ico
 
-# Notable Projects
-- title: Notable Projects
-  layout: list
-  content:
-    - layout: left
-      title: FPGA-Based Signal Processing Module
-      sub_title: Technologies: VHDL, MATLAB, Xilinx Vivado
-      description: |
-        - Developed a high-speed digital signal processing module on an FPGA for real-time applications.
-        - Designed and simulated signal processing algorithms in MATLAB before hardware implementation.
-        - Delivered a robust and efficient design for industrial automation systems.
-    - layout: left
-      title: Power Electronics Control System
-      sub_title: Technologies: MATLAB/Simulink, Embedded C
-      description: |
-        - Engineered a control system for power electronics in renewable energy applications.
-        - Focused on optimizing switching techniques for inverters and converters to improve efficiency.
-        - Simulated and validated system performance using MATLAB and implemented on a microcontroller-based architecture.
-    - layout: left
-      title: Automotive Diagnostic Tool Development
-      sub_title: Technologies: CAN Bus, Python, Embedded C
-      description: |
-        - Designed and deployed a diagnostic tool for real-time fault detection in automotive systems.
-        - Integrated communication protocols such as CAN and LIN for robust vehicle diagnostics.
-        - Enhanced maintenance workflows by providing detailed data visualization and reporting.
-    - layout: left
-      title: Embedded Architecture Systems Engineering
-      sub_title: Technologies: ARM Cortex-M, RTOS, Hardware Design
-      description: |
-        - Architected embedded systems for IoT and automotive applications, focusing on modular design and scalability.
-        - Implemented real-time scheduling for multi-tasking applications using an RTOS.
-        - Delivered optimized firmware solutions for mission-critical components in automotive systems.
- 
+# Site
+favicon: images/favicon.ico
+
+# Content configuration version
+version: 2
+
+# Dark Mode (true/false/never)
+darkmode: false
+
+# Social links
+github_username: salhina
+linkedin_username: nabil-salhi
+youtube_username: "@salhi_nabil"
+
+# Additional icon links
+additional_links:
+  - title: Portfolio
+    icon: fas fa-globe
+    url: http://nabilsalhicv.me.ht
+  - title: My CV
+    icon: far fa-address-card
+    url: http://nabilsalhicv.me.ht/cv/
+
+# About Section
+about_profile_image: images/IMG-20170221-WA0027-300x203.jpg
+about_content: | 
+  Hi, I’m Nabil Salhi, an Electronics and Telecommunications Engineer with a passion for Embedded Systems, Automotive, and Aerospace technologies. I specialize in **real-time application development**, **hardware/software integration**, and **teaching engineering principles**.
+
+  With experience in the automotive and aerospace industries, I bring expertise in **vehicles systems architecture**, **power electronics**, and **team leadership**. As an instructor, I help students and engineers unlock their potential through engaging and practical learning approaches.
+
+# Content Sections
+content:
+  - title: Key Skills
+    layout: text
+    content: |
+      - Embedded Systems Development (FPGA, ARM Cortex-M, Real-time Systems)
+      - Programming: C/C++, Python, MATLAB
+      - Hardware Interfaces: SPI, I2C, UART, CAN
+      - Signal Processing & Control Systems
+      - Telecommunications & Electronics
+      - IoT & Wireless Communication Protocols
+      - Software Tools: MATLAB/Simulink, RTOS, Altium Designer, Xilinx Vivado
+
+  - title: Professional Experience
+    layout: list
+    content:
+      - layout: left
+        title: Confidential Company
+        sub_title: Electrical/Electronics Engineer
+        caption: November 2015 - Present
+        description: |
+          - Lead the design and development of embedded systems for automotive applications.
+          - Created robust electronics systems to enhance **vehicle performance** and **safety**.
+          - Developed real-time solutions for aerospace and automotive systems.
+          - Actively collaborated with cross-disciplinary teams to deliver innovative solutions.
+          - Mentored junior engineers, fostering a culture of continuous learning.
+
+  - title: Notable Projects
+    layout: list
+    content:
+      - layout: left
+        title: FPGA-Based Signal Processing Module
+        sub_title: Technologies: VHDL, MATLAB, Xilinx Vivado
+        description: |
+          - Developed a high-speed digital signal processing module on an FPGA for real-time applications.
+          - Designed and simulated signal processing algorithms in MATLAB before hardware implementation.
+          - Delivered a robust and efficient design for industrial automation systems.
+      - layout: left
+        title: Power Electronics Control System
+        sub_title: Technologies: MATLAB/Simulink, Embedded C
+        description: |
+          - Engineered a control system for power electronics in renewable energy applications.
+          - Focused on optimizing switching techniques for inverters and converters to improve efficiency.
+          - Simulated and validated system performance using MATLAB and implemented on a microcontroller-based architecture.
+      - layout: left
+        title: Automotive Diagnostic Tool Development
+        sub_title: Technologies: CAN Bus, Python, Embedded C
+        description: |
+          - Designed and deployed a diagnostic tool for real-time fault detection in automotive systems.
+          - Integrated communication protocols such as CAN and LIN for robust vehicle diagnostics.
+          - Enhanced maintenance workflows by providing detailed data visualization and reporting.
+      - layout: left
+        title: Embedded Architecture Systems Engineering
+        sub_title: Technologies: ARM Cortex-M, RTOS, Hardware Design
+        description: |
+          - Architected embedded systems for IoT and automotive applications, focusing on modular design and scalability.
+          - Implemented real-time scheduling for multi-tasking applications using an RTOS.
+          - Delivered optimized firmware solutions for mission-critical components in automotive systems.
+
+  - title: Education
+    layout: list
+    content:
+      - layout: left
+        title: University of Fez, Morocco
+        sub_title: Master’s Degree in Electronics & Telecommunications
+        caption: 2009 - 2014
+        description: |
+          - Gained expertise in **analog/digital systems**, **telecommunications**, and **electromagnetic theory**.
+          - Served as Vice-President of the **Robotics Club**, organizing workshops and competitions.
+          - Honed teamwork and leadership skills through collaborative academic projects.
+
+  - title: A Little More About Me
+    layout: text
+    content: |
+      Beyond engineering, I am passionate about:
+      - [**DIY Engineering Videos**](https://www.youtube.com/@salhi_nabil)
+      - [**Technical Blog Writing**](http://nabilsalhicv.me.ht/)
+      - Gaming and exploring new technologies
+
+# Footer
+footer_show_references: true
