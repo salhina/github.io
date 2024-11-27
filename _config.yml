@@ -82,48 +82,13 @@ content:
 
 
 
-  - title: Notable Projects
-    layout: list
-    content:
-	- layout: left
-      		title: VGA Interface Development Using Altera FPGA
-      		sub_title: Technologies- FPGA, NIOS II, Altera, Simulation Tools
-      		description: |
-        		- Led the design and implementation of a VGA interface using an embedded NIOS II microprocessor on an Altera FPGA.
-        		- Integrated both hardware and software components to ensure high graphical performance and reliability.
-        		- Focused on real-time optimization and system efficiency for embedded systems.
 
-    	- layout: left
-      		title: Embedded Controller for UPS System with Web-Based HMI
-      		sub_title: Technologies- Embedded Systems, PIC, Web Interface, JavaScript
-      		description: |
-        		- Developed an embedded control system for inverters with real-time monitoring through a JavaScript-based web interface.
-        		- Focused on providing critical performance feedback for UPS systems.
-        		- Integrated embedded electronics with user-friendly HMI design, enhancing system diagnostics and troubleshooting.
 
-    	- layout: left
-      		title: Radiation Pattern Analysis for Dipole and Antenna Arrays via MATLAB GUI
-      		sub_title: Technologies- MATLAB, Antenna Arrays, Signal Processing
-      		description: |
-        		- Designed and simulated radiation patterns for dipole antennas, analyzing key parameters like Half-Power Beamwidth (HPBW).
-        		- Extended the project to include phased antenna arrays, providing customizable options for performance tuning.
-        		- Utilized advanced simulation and signal processing techniques for optimizing communication systems.
+ 
 
-	- layout: left
-		title: Electronic Systems Controller & Frequency Response Analyzer
-		sub_title: Technologies- LabVIEW, NI USB-621, Signal Processing
-		description: |
-			- Designed and developed an electronic systems controller with an integrated frequency response analyzer.
-			- Utilized LabVIEW software and the NI USB-621 acquisition board for real-time signal processing and system diagnostics.
-			- Focused on enhancing fault detection and maintenance processes for embedded systems.
 
-	- layout: left
-	      title: DSP and Embedded Controller Design for Automotive Signal Processing
-	      sub_title: Technologies- DSP, Embedded Systems, Automotive Diagnostics
-	      description: |
-	        	- Designed and implemented DSP-based signal processing algorithms for automotive embedded systems.
-	        	- Developed real-time data analysis solutions, improving system performance and diagnostics for automotive electronics.
-	        	- Focused on system calibration, fault detection, and performance optimization for the automotive industry.
+
+
 
 
 
@@ -133,34 +98,51 @@ content:
   - title: Notable Projects
     layout: list
     content:
-      - layout: left
-        title: FPGA-Based Signal Processing Module
-        sub_title: Technologies- VHDL, MATLAB, Xilinx Vivado
+
+	  - layout: left
+        title: VGA Interface Development Using Altera FPGA
+        sub_title: Technologies- FPGA, NIOS II, Altera, Simulation Tools
         description: |
-          - Developed a high-speed digital signal processing module on an FPGA for real-time applications.
-          - Designed and simulated signal processing algorithms in MATLAB before hardware implementation.
-          - Delivered a robust and efficient design for industrial automation systems.
+          - Led the design and implementation of a VGA interface using an embedded NIOS II microprocessor on an Altera FPGA.
+          - Integrated both hardware and software components to ensure high graphical performance and reliability.
+          - Focused on real-time optimization and system efficiency for embedded systems.
+		  
       - layout: left
-        title: Power Electronics Control System
-        sub_title: Technologies- MATLAB/Simulink, Embedded C
+        title: Embedded Controller for UPS System with Web-Based HMI
+        sub_title: Technologies- Embedded Systems, PIC, Web Interface, JavaScript
         description: |
-          - Engineered a control system for power electronics in renewable energy applications.
-          - Focused on optimizing switching techniques for inverters and converters to improve efficiency.
-          - Simulated and validated system performance using MATLAB and implemented on a microcontroller-based architecture.
-      - layout: left
-        title: Automotive Diagnostic Tool Development
-        sub_title: Technologies- CAN Bus, Python, Embedded C
+          - Developed an embedded control system for inverters with real-time monitoring through a JavaScript-based web interface.
+          - Focused on providing critical performance feedback for UPS systems.
+          - Integrated embedded electronics with user-friendly HMI design, enhancing system diagnostics and troubleshooting.
+		  
+	  - layout: left
+        title: Radiation Pattern Analysis for Dipole and Antenna Arrays via MATLAB GUI
+        sub_title: Technologies- MATLAB, Antenna Arrays, Signal Processing
         description: |
-          - Designed and deployed a diagnostic tool for real-time fault detection in automotive systems.
-          - Integrated communication protocols such as CAN and LIN for robust vehicle diagnostics.
-          - Enhanced maintenance workflows by providing detailed data visualization and reporting.
-      - layout: left
-        title: Embedded Architecture Systems Engineering
-        sub_title: Technologies- ARM Cortex-M, RTOS, Hardware Design
+          - Designed and simulated radiation patterns for dipole antennas, analyzing key parameters like Half-Power Beamwidth (HPBW).
+          - Extended the project to include phased antenna arrays, providing customizable options for performance tuning.
+          - Utilized advanced simulation and signal processing techniques for optimizing communication systems.
+		  
+	  - layout: left
+		title: DSP and Embedded Controller Design for Automotive Signal Processing
+	    sub_title: Technologies- DSP, Embedded Systems, Automotive Diagnostics
+	    description: |
+	      - Designed and implemented DSP-based signal processing algorithms for automotive embedded systems.
+	      - Developed real-time data analysis solutions, improving system performance and diagnostics for automotive electronics.
+	      - Focused on system calibration, fault detection, and performance optimization for the automotive industry.
+		  
+	  - layout: left
+        title: Electronic Systems Controller & Frequency Response Analyzer
+        sub_title: Technologies- LabVIEW, NI USB-621, Signal Processing
         description: |
-          - Architected embedded systems for IoT and automotive applications, focusing on modular design and scalability.
-          - Implemented real-time scheduling for multi-tasking applications using an RTOS.
-          - Delivered optimized firmware solutions for mission-critical components in automotive systems.
+          - Designed and developed an electronic systems controller with an integrated frequency response analyzer.
+          - Utilized LabVIEW software and the NI USB-621 acquisition board for real-time signal processing and system diagnostics.
+          - Focused on enhancing fault detection and maintenance processes for embedded systems.
+
+		  
+		  
+		  
+
 
   - title: Education
     layout: list
