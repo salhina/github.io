@@ -98,7 +98,6 @@ content:
   - title: Notable Projects
     layout: list
     content:
-
 	  - layout: left
         title: VGA Interface Development Using Altera FPGA
         sub_title: Technologies- FPGA, NIOS II, Altera, Simulation Tools
