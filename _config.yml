@@ -70,41 +70,20 @@ content:
     layout: list
     content:
       - layout: left
-        title: Confidential Company
-        sub_title: Electrical/Electronics Engineer
-        caption: November 2015 - Present
+        title: Embedded Systems and Maintenance Instructor
+        sub_title: Confidential Companies, UAE & Morocco
+		caption: 2014 - Present
         description: |
-          - Lead the design and development of embedded systems for automotive applications.
-          - Created robust electronics systems to enhance **vehicle performance** and **safety**.
-          - Developed real-time solutions for aerospace and automotive systems.
-          - Actively collaborated with cross-disciplinary teams to deliver innovative solutions.
-          - Mentored junior engineers, fostering a culture of continuous learning.
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
+          - Delivered advanced training in embedded systems, electrical maintenance, and troubleshooting for automotive and military applications.
+          - Developed hands-on modules for system diagnostics, repair, and optimization, enhancing operational efficiency.
+          - Contributed to key infrastructure projects, integrating SCADA systems and network communications for critical sectors.
+          - Specialized in automating production systems and ensuring adherence to industry standards in complex technical environments.
 
 
   - title: Notable Projects
     layout: list
     content:
-      - layout: left
-        title: VGA Interface Development Using Altera FPGA
-        sub_title: Technologies- FPGA, NIOS II, Altera, Simulation Tools
-        description: |
-          - Led the design and implementation of a VGA interface using an embedded NIOS II microprocessor on an Altera FPGA.
-          - Integrated both hardware and software components to ensure high graphical performance and reliability.
-          - Focused on real-time optimization and system efficiency for embedded systems.
+
           
       - layout: left
         title: Embedded Controller for UPS System with Web-Based HMI
@@ -137,7 +116,14 @@ content:
           - Designed and developed an electronic systems controller with an integrated frequency response analyzer.
           - Utilized LabVIEW software and the NI USB-621 acquisition board for real-time signal processing and system diagnostics.
           - Focused on enhancing fault detection and maintenance processes for embedded systems.
-
+      
+	  - layout: left
+        title: VGA Interface Development Using Altera FPGA
+        sub_title: Technologies- FPGA, NIOS II, Altera, Simulation Tools
+        description: |
+          - Led the design and implementation of a VGA interface using an embedded NIOS II microprocessor on an Altera FPGA.
+          - Integrated both hardware and software components to ensure high graphical performance and reliability.
+          - Focused on real-time optimization and system efficiency for embedded systems.
           
           
           
