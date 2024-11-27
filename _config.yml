@@ -54,13 +54,15 @@ content:
   - title: Key Skills
     layout: text
     content: |
-      - Embedded Systems Development (FPGA, ARM Cortex-M, Real-time Systems)
-      - Programming: C/C++, Python, MATLAB
-      - Hardware Interfaces: SPI, I2C, UART, CAN
-      - Signal Processing & Control Systems
-      - Telecommunications & Electronics
-      - IoT & Wireless Communication Protocols
-      - Software Tools: MATLAB/Simulink, RTOS, Altium Designer, Xilinx Vivado
+      - Embedded Systems Development: FPGA, DSP, Real-Time Firmware
+      - Programming Languages: C, C++, Python
+      - Automotive Diagnostics: CAN, OBD-II Protocols
+      - Real-Time Systems: RTOS, Scheduling, Control Systems
+      - Signal Processing: DSP Algorithm Design and Implementation
+      - Digital Design: VHDL for Automotive Applications
+      - Power Electronics: Vehicle Systems and Energy Management
+      - Hardware Interfaces: SPI, I2C, UART
+      - Technical Instruction: Electronics Labs and Curriculum Development
 
   - title: Professional Experience
     layout: list
