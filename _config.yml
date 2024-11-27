@@ -70,20 +70,18 @@ content:
     layout: list
     content:
       - layout: left
-        title: Embedded Systems and Maintenance Instructor Engineer
+        title: Embedded Systems Engineer and Maintenance Specialist
         sub_title: Confidential Companies, UAE & Morocco
         caption: 2014 - Present
         description: |
-          - Delivered advanced training in embedded systems, electrical maintenance, and troubleshooting for automotive, defense and aerospace applications.
-          - Developed hands-on modules for system diagnostics, repair, and optimization, enhancing operational efficiency.
-          - Contributed to key infrastructure projects, integrating SCADA systems and network communications for critical sectors.
-          - Specialized in automating production systems and ensuring adherence to industry standards in complex technical environments.
-
+          - Engineered and maintained embedded systems for automotive, defense, and aerospace applications, focusing on high-reliability environments.
+          - Designed and implemented diagnostic and optimization solutions, improving system uptime and operational efficiency.
+          - Led the development of hands-on training modules for system troubleshooting, repair, and performance enhancement.
+          - Ensured compliance with industry standards, contributing to the integration of critical electrical systems in complex technical environments.
 
   - title: Notable Projects
     layout: list
     content:
-
           
       - layout: left
         title: Embedded Controller for UPS System with Web-Based HMI
