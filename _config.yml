@@ -56,6 +56,8 @@ content:
     content: |
       - Embedded Systems Development: FPGA, DSP, Real-Time Firmware
       - Programming Languages: C, C++, Python
+      - GUI Development: Advanced Interface Design for Embedded Applications
+      - MATLAB: Data Analysis, Simulation, and Signal Processing
       - Automotive Diagnostics: CAN, OBD-II Protocols
       - Real-Time Systems: RTOS, Scheduling, Control Systems
       - Signal Processing: DSP Algorithm Design and Implementation
