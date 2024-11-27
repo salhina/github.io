@@ -108,12 +108,14 @@ content:
           - Focused on system calibration, fault detection, and performance optimization for the automotive industry.
           
       - layout: left     
-        title: Electronic Systems Controller & Frequency Response Analyzer
-        sub_title: Technologies- LabVIEW, NI USB-621, Signal Processing
+        title: LabVIEW-Based Frequency Response Analyzer for Analog System Characterization
+        sub_title: Technologies - LabVIEW, NI USB-621, HM8131 Function Generator
         description: |
-          - Designed and developed an electronic systems controller with an integrated frequency response analyzer.
-          - Utilized LabVIEW software and the NI USB-621 acquisition board for real-time signal processing and system diagnostics.
-          - Focused on enhancing fault detection and maintenance processes for embedded systems.
+          - Developed a LabVIEW-based graphical user interface (GUI) to control a function generator for generating frequency sweep signals.
+          - Integrated the NI USB-621 acquisition board to capture the output signal from the analog system.
+          - Processed the captured data to display the frequency response in a Bode plot.
+          - Extracted key metrics such as bandwidth and cutoff frequency for system analysis.
+          - Provided a comprehensive solution for testing and characterizing analog systems through real-time frequency response analysis.
       
       - layout: left
         title: VGA Interface Development Using Altera FPGA
